@@ -26,6 +26,8 @@
 #         self.val = val
 #         self.next = next
 
+# READ THIS>>>https://stackoverflow.com/questions/56515975/python-logic-of-listnode-in-leetcode
+
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
         """
