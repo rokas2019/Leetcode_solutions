@@ -32,3 +32,17 @@ class Solution:
         return []
 
 
+l1 = [2,4,3]
+l2 = [5,6,4]
+
+ratio = 0.529
+value1 = 1
+value2 = 20
+value3 = 5
+dollartoone = value1 * ratio
+onetodolar = value2 * ratio
+print(f"cash :{onetodolar}")
+print(f"Ones :{dollartoone}")
+print(f"cigars now {value2 / value3}")
+
+
